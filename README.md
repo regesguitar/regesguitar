@@ -1,16 +1,81 @@
+# <div align="center">🚀 BRUNO REGES 🚀</div>
 
-Hey folks, I'm Bruno Reges!
-Welcome! I'm glad to have you here. Let me share a little about myself.
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Engenheiro%20de%20Software&fontSize=40&fontAlignY=35&desc=Transformando%20Desafios%20em%20Soluções&descAlignY=60&animation=fadeIn)
 
-I'm passionate about software development and always striving for technical growth. I thrive in collaborative environments, adapting quickly to different teams and organizational cultures. My strong problem-solving skills and continuous desire for improvement have helped me build over four incredible years of experience in software development, covering front-end, back-end, and full-cycle development.
+</div>
 
-I'm always eager to learn new things and take on new challenges!
+<div align="center">
+  <a href="mailto:bruno.reges@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bruno.reges%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/regesguitar">
+    <img src="https://img.shields.io/badge/GitHub-regesguitar-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge" alt="Status"/>
+</div>
 
-🔥 A bit more about me:
-🔭 Currently working at Automate Army
-⚡ Fun fact: I'm a guitarist and a big fan of video games!
-📫 Feel free to reach out via email: bruno.reges@gmail.com
-<div align="center"> <a href="https://github.com/regesguitar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regesguitar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regesguitar&layout=compact&langs_count=7&theme=dark"/> </a> </div>
-🚀 Tech Stack:
-<div style="display: inline_block"><br> <img align="center" alt="Reges-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Reges-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Reges-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Reges-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Reges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div>
-<div> <a href = "mailto:bruno.reges@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> </div>
+## <div align="center">💫 Quem Sou Eu</div>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Olá mundo! 👋 Sou um **Engenheiro de Software** com mais de 4 anos de experiência, especializado em criar soluções escaláveis e de alta qualidade. Apaixonado por arquitetura de software, boas práticas de desenvolvimento e tecnologias inovadoras.
+
+Busco constantemente aprimorar minhas habilidades técnicas e me adapto rapidamente a diferentes ambientes de trabalho e culturas organizacionais. Minha capacidade de resolver problemas complexos e meu compromisso com a excelência me permitem entregar resultados consistentes.
+
+```javascript
+const bruno = {
+  ocupação: "Engenheiro de Software @ Automate Army",
+  especialidades: ["Desenvolvimento Full-cycle", "Otimização de Performance"],
+  interesses: ["Novas Tecnologias", "Música", "Games"],
+  filosofia: "Código limpo, soluções elegantes, resultados excepcionais."
+};
+```
+
+## <div align="center">⚡ Habilidades Técnicas</div>
+
+<div align="center">
+  
+  ### 💻 Desenvolvimento
+  ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-007ACC?style=for-the-badge)
+  ![Arquitetura de Sistemas](https://img.shields.io/badge/Arquitetura%20de%20Sistemas-20232A?style=for-the-badge)
+  ![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-F7DF1E?style=for-the-badge)
+  
+  ### 🛠️ Competências
+  ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-43853D?style=for-the-badge)
+  ![Desenvolvimento Ágil](https://img.shields.io/badge/Desenvolvimento%20Ágil-E44C30?style=for-the-badge)
+  ![Design de APIs](https://img.shields.io/badge/Design%20de%20APIs-2496ED?style=for-the-badge)
+  
+</div>
+
+## <div align="center">📊 GitHub Stats</div>
+
+<div align="center">
+  <a href="https://github.com/regesguitar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regesguitar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=regesguitar&theme=nord&row=1&column=6&margin-w=15" />
+</div>
+
+## <div align="center">🎵 Além do Código</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎸-Músico-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎮-Gamer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚-Eterno%20Aprendiz-green?style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "A engenharia de software é a arte de transformar a complexidade em simplicidade."
+
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=regesguitar.regesguitar)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
+</div>
